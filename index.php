@@ -1,3 +1,3 @@
 <?php
-print(`ifconfig`);
+print "welcome to ocp worlds";
 ?>
